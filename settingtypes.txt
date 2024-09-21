@@ -1,0 +1,6 @@
+# Range to override the hand with, changing the default range of all tools
+# 0 means do not override
+hand_range.range (Hand range) float 0 0 1000
+# Range in creative mode
+# 0 means use the normal range setting
+hand_range.creative_range (Creative range) float 0 0 1000
